@@ -1,0 +1,189 @@
+[2024-04-16 21:53:12] Initialized Centroids: [x: -1.7
+y: 7.5
+, x: 0.3
+y: 7.2
+, x: 0.9
+y: 9.7
+, x: 8.1
+y: 3.4
+]
+[2024-04-16 21:53:12] Iteration 0
+[2024-04-16 21:53:12] Invoking Mapper 0
+[2024-04-16 21:53:12] Mapper 0 response: SUCCESS
+[2024-04-16 21:53:12] Invoking Mapper 1
+[2024-04-16 21:53:12] Mapper 1 response: SUCCESS
+[2024-04-16 21:53:12] Invoking Mapper 2
+[2024-04-16 21:53:12] Mapper 2 response: SUCCESS
+[2024-04-16 21:53:12] Invoking Reducer 0
+[2024-04-16 21:53:12] Reducer 0 response: SUCCESS
+[2024-04-16 21:53:12] Invoking Reducer 1
+[2024-04-16 21:53:12] Reducer 1 response: SUCCESS
+[2024-04-16 21:53:12] Invoking Reducer 2
+[2024-04-16 21:53:12] Reducer 2 response: SUCCESS
+[2024-04-16 21:53:12] 
+[2024-04-16 21:53:12] New Centroids: [x: -1.65
+y: 7.45
+, x: 9.54736805
+y: 1.04736841
+, x: 0.3
+y: 7.225
+, x: 0.825
+y: 9.75
+]
+[2024-04-16 21:53:12] 
+[2024-04-16 21:53:17] Iteration 1
+[2024-04-16 21:53:17] Invoking Mapper 0
+[2024-04-16 21:53:17] Mapper 0 response: SUCCESS
+[2024-04-16 21:53:17] Invoking Mapper 1
+[2024-04-16 21:53:17] Mapper 1 response: SUCCESS
+[2024-04-16 21:53:17] Invoking Mapper 2
+[2024-04-16 21:53:17] Mapper 2 failed to respond
+[2024-04-16 21:53:17] Invoking Mapper 0 in place of Mapper 2
+[2024-04-16 21:53:17] Mapper 0 response: SUCCESS
+[2024-04-16 21:53:17] Invoking Reducer 0
+[2024-04-16 21:53:17] Reducer 0 response: SUCCESS
+[2024-04-16 21:53:17] Invoking Reducer 1
+[2024-04-16 21:53:17] Reducer 1 response: SUCCESS
+[2024-04-16 21:53:17] Invoking Reducer 2
+[2024-04-16 21:53:17] Reducer 2 response: SUCCESS
+[2024-04-16 21:53:17] 
+[2024-04-16 21:53:17] New Centroids: [x: 0.825
+y: 9.75
+, x: -1.65
+y: 7.45
+, x: 9.54736805
+y: 1.04736841
+, x: 0.3
+y: 7.225
+]
+[2024-04-16 21:53:17] 
+[2024-04-16 21:53:22] Iteration 2
+[2024-04-16 21:53:22] Invoking Mapper 0
+[2024-04-16 21:53:22] Mapper 0 response: SUCCESS
+[2024-04-16 21:53:22] Invoking Mapper 1
+[2024-04-16 21:53:22] Mapper 1 response: SUCCESS
+[2024-04-16 21:53:22] Invoking Mapper 2
+[2024-04-16 21:53:22] Mapper 2 failed to respond
+[2024-04-16 21:53:22] Invoking Mapper 0 in place of Mapper 2
+[2024-04-16 21:53:22] Mapper 0 response: SUCCESS
+[2024-04-16 21:53:22] Invoking Reducer 0
+[2024-04-16 21:53:22] Reducer 0 response: SUCCESS
+[2024-04-16 21:53:22] Invoking Reducer 1
+[2024-04-16 21:53:22] Reducer 1 response: SUCCESS
+[2024-04-16 21:53:22] Invoking Reducer 2
+[2024-04-16 21:53:22] Reducer 2 response: SUCCESS
+[2024-04-16 21:53:22] 
+[2024-04-16 21:53:22] New Centroids: [x: 0.3
+y: 7.225
+, x: 0.825
+y: 9.75
+, x: -1.65
+y: 7.45
+, x: 9.54736805
+y: 1.04736841
+]
+[2024-04-16 21:53:22] 
+[2024-04-16 21:53:27] Iteration 3
+[2024-04-16 21:53:27] Invoking Mapper 0
+[2024-04-16 21:53:27] Mapper 0 response: SUCCESS
+[2024-04-16 21:53:27] Invoking Mapper 1
+[2024-04-16 21:53:27] Mapper 1 response: SUCCESS
+[2024-04-16 21:53:27] Invoking Mapper 2
+[2024-04-16 21:53:27] Mapper 2 failed to respond
+[2024-04-16 21:53:27] Invoking Mapper 0 in place of Mapper 2
+[2024-04-16 21:53:27] Mapper 0 response: SUCCESS
+[2024-04-16 21:53:27] Invoking Reducer 0
+[2024-04-16 21:53:27] Reducer 0 response: SUCCESS
+[2024-04-16 21:53:27] Invoking Reducer 1
+[2024-04-16 21:53:27] Reducer 1 response: SUCCESS
+[2024-04-16 21:53:27] Invoking Reducer 2
+[2024-04-16 21:53:27] Reducer 2 response: SUCCESS
+[2024-04-16 21:53:27] 
+[2024-04-16 21:53:27] New Centroids: [x: 0.3
+y: 7.225
+, x: 9.54736805
+y: 1.04736841
+, x: 0.825
+y: 9.75
+, x: -1.65
+y: 7.45
+]
+[2024-04-16 21:53:27] 
+[2024-04-16 21:53:32] Iteration 4
+[2024-04-16 21:53:32] Invoking Mapper 0
+[2024-04-16 21:53:32] Mapper 0 response: SUCCESS
+[2024-04-16 21:53:32] Invoking Mapper 1
+[2024-04-16 21:53:32] Mapper 1 response: SUCCESS
+[2024-04-16 21:53:32] Invoking Mapper 2
+[2024-04-16 21:53:32] Mapper 2 failed to respond
+[2024-04-16 21:53:32] Invoking Mapper 0 in place of Mapper 2
+[2024-04-16 21:53:32] Mapper 0 response: SUCCESS
+[2024-04-16 21:53:32] Invoking Reducer 0
+[2024-04-16 21:53:32] Reducer 0 response: SUCCESS
+[2024-04-16 21:53:32] Invoking Reducer 1
+[2024-04-16 21:53:32] Reducer 1 response: SUCCESS
+[2024-04-16 21:53:32] Invoking Reducer 2
+[2024-04-16 21:53:32] Reducer 2 response: SUCCESS
+[2024-04-16 21:53:32] 
+[2024-04-16 21:53:32] New Centroids: [x: 0.3
+y: 7.225
+, x: -1.65
+y: 7.45
+, x: 9.54736805
+y: 1.04736841
+, x: 0.825
+y: 9.75
+]
+[2024-04-16 21:53:32] 
+[2024-04-16 21:53:37] Iteration 5
+[2024-04-16 21:53:37] Invoking Mapper 0
+[2024-04-16 21:53:37] Mapper 0 response: SUCCESS
+[2024-04-16 21:53:37] Invoking Mapper 1
+[2024-04-16 21:53:37] Mapper 1 response: SUCCESS
+[2024-04-16 21:53:37] Invoking Mapper 2
+[2024-04-16 21:53:37] Mapper 2 failed to respond
+[2024-04-16 21:53:37] Invoking Mapper 0 in place of Mapper 2
+[2024-04-16 21:53:37] Mapper 0 response: SUCCESS
+[2024-04-16 21:53:37] Invoking Reducer 0
+[2024-04-16 21:53:37] Reducer 0 response: SUCCESS
+[2024-04-16 21:53:37] Invoking Reducer 1
+[2024-04-16 21:53:37] Reducer 1 response: SUCCESS
+[2024-04-16 21:53:37] Invoking Reducer 2
+[2024-04-16 21:53:37] Reducer 2 response: SUCCESS
+[2024-04-16 21:53:37] 
+[2024-04-16 21:53:37] New Centroids: [x: 0.3
+y: 7.225
+, x: 0.825
+y: 9.75
+, x: -1.65
+y: 7.45
+, x: 9.54736805
+y: 1.04736841
+]
+[2024-04-16 21:53:37] 
+[2024-04-16 21:53:42] Iteration 6
+[2024-04-16 21:53:42] Invoking Mapper 0
+[2024-04-16 21:53:42] Mapper 0 response: SUCCESS
+[2024-04-16 21:53:42] Invoking Mapper 1
+[2024-04-16 21:53:42] Mapper 1 response: SUCCESS
+[2024-04-16 21:53:42] Invoking Mapper 2
+[2024-04-16 21:53:42] Mapper 2 failed to respond
+[2024-04-16 21:53:42] Invoking Mapper 0 in place of Mapper 2
+[2024-04-16 21:53:42] Mapper 0 response: SUCCESS
+[2024-04-16 21:53:42] Invoking Reducer 0
+[2024-04-16 21:53:42] Reducer 0 response: SUCCESS
+[2024-04-16 21:53:42] Invoking Reducer 1
+[2024-04-16 21:53:42] Reducer 1 response: SUCCESS
+[2024-04-16 21:53:42] Invoking Reducer 2
+[2024-04-16 21:53:42] Reducer 2 response: SUCCESS
+[2024-04-16 21:53:42] 
+[2024-04-16 21:53:42] New Centroids: [x: 0.3
+y: 7.225
+, x: 9.54736805
+y: 1.04736841
+, x: 0.825
+y: 9.75
+, x: -1.65
+y: 7.45
+]
+[2024-04-16 21:53:42] 

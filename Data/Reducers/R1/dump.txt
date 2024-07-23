@@ -1,0 +1,8 @@
+[2024-04-16 21:53:42] Reducer 1 started
+[2024-04-16 21:53:42] Requesting data from Mapper 0
+[2024-04-16 21:53:42] Requesting data from Mapper 1
+[2024-04-16 21:53:42] Requesting data from Mapper 2
+[2024-04-16 21:53:42] Mapper 2 failed to respond
+[2024-04-16 21:53:42] Requesting data of Mapper 2 from Mapper 0
+[2024-04-16 21:53:42] Reducer 1 finished
+[2024-04-16 21:53:42] Reducer 1 GetCentroids request from master

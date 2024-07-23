@@ -1,0 +1,67 @@
+syntax = "proto3";
+
+service Mapper {
+  rpc RunMap(MasterMapperRequest) returns (MasterMapperResponse){};
+  rpc GetData(ReducerMapperRequest) returns (ReducerMapperResponse){};
+}
+
+service Reducer {
+  rpc RunReduce(MasterReducerRequest) returns (MasterReducerResponse){};
+  rpc GetCentroids(CentroidRequest) returns (CentroidResponse){};
+}
+
+message Centroid {
+  float x = 1;
+  float y = 2;
+}
+
+message Range {
+  int32 start = 1;
+  int32 end = 2;
+}
+
+message Point {
+  float x = 1;
+  float y = 2;
+}
+
+message Int_Data {
+  int32 key = 1;
+  Point val = 2;
+}
+
+message MasterMapperRequest {
+  Range range = 1;
+  repeated Centroid centroids = 2;
+  int32 id = 3;
+}
+
+message MasterMapperResponse {
+  string status = 1;
+}
+
+message MasterReducerRequest {
+  int32 num_centroids = 1;
+  int32 id = 2;
+}
+
+message MasterReducerResponse {
+  string status = 1;
+}
+
+message ReducerMapperRequest {
+  int32 reducer_id = 1;
+  int32 mapper_id = 2;
+}
+
+message ReducerMapperResponse {
+  repeated Int_Data data = 1;
+}
+
+message CentroidRequest {
+  int32 id = 1;
+}
+
+message CentroidResponse {
+  repeated Centroid centroids = 1;
+}

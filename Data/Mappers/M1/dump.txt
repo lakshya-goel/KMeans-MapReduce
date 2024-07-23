@@ -1,0 +1,70 @@
+[2024-04-16 21:51:09] Mapper 1 started
+[2024-04-16 21:51:09] Mapper 1 finished
+[2024-04-16 21:51:09] Mapper 1 GetData request from reducer 0
+[2024-04-16 21:51:09] Mapper 1 GetData request from reducer 1
+[2024-04-16 21:51:09] Mapper 1 GetData request from reducer 2
+[2024-04-16 21:51:14] Mapper 1 started
+[2024-04-16 21:51:14] Mapper 1 finished
+[2024-04-16 21:51:14] Mapper 1 GetData request from reducer 0
+[2024-04-16 21:51:14] Mapper 1 GetData request from reducer 1
+[2024-04-16 21:51:14] Mapper 1 GetData request from reducer 2
+[2024-04-16 21:51:19] Mapper 1 started
+[2024-04-16 21:51:19] Mapper 1 finished
+[2024-04-16 21:51:19] Mapper 1 GetData request from reducer 0
+[2024-04-16 21:51:19] Mapper 1 GetData request from reducer 1
+[2024-04-16 21:51:19] Mapper 1 GetData request from reducer 2
+[2024-04-16 21:51:24] Mapper 1 started
+[2024-04-16 21:51:24] Mapper 1 finished
+[2024-04-16 21:51:24] Mapper 1 GetData request from reducer 0
+[2024-04-16 21:51:24] Mapper 1 GetData request from reducer 1
+[2024-04-16 21:51:24] Mapper 1 GetData request from reducer 2
+[2024-04-16 21:51:29] Mapper 1 started
+[2024-04-16 21:51:29] Mapper 1 finished
+[2024-04-16 21:51:29] Mapper 1 GetData request from reducer 0
+[2024-04-16 21:51:29] Mapper 1 GetData request from reducer 1
+[2024-04-16 21:51:29] Mapper 1 GetData request from reducer 2
+[2024-04-16 21:51:34] Mapper 1 started
+[2024-04-16 21:51:34] Mapper 1 finished
+[2024-04-16 21:51:34] Mapper 1 GetData request from reducer 0
+[2024-04-16 21:51:34] Mapper 1 GetData request from reducer 1
+[2024-04-16 21:51:34] Mapper 1 GetData request from reducer 2
+[2024-04-16 21:51:39] Mapper 1 started
+[2024-04-16 21:51:39] Mapper 1 finished
+[2024-04-16 21:51:39] Mapper 1 GetData request from reducer 0
+[2024-04-16 21:51:39] Mapper 1 GetData request from reducer 1
+[2024-04-16 21:51:39] Mapper 1 GetData request from reducer 2
+[2024-04-16 21:53:12] Mapper 1 started
+[2024-04-16 21:53:12] Mapper 1 finished
+[2024-04-16 21:53:12] Mapper 1 GetData request from reducer 0
+[2024-04-16 21:53:12] Mapper 1 GetData request from reducer 1
+[2024-04-16 21:53:12] Mapper 1 GetData request from reducer 2
+[2024-04-16 21:53:17] Mapper 1 started
+[2024-04-16 21:53:17] Mapper 1 finished
+[2024-04-16 21:53:17] Mapper 1 GetData request from reducer 0
+[2024-04-16 21:53:17] Mapper 1 GetData request from reducer 1
+[2024-04-16 21:53:17] Mapper 1 GetData request from reducer 2
+[2024-04-16 21:53:22] Mapper 1 started
+[2024-04-16 21:53:22] Mapper 1 finished
+[2024-04-16 21:53:22] Mapper 1 GetData request from reducer 0
+[2024-04-16 21:53:22] Mapper 1 GetData request from reducer 1
+[2024-04-16 21:53:22] Mapper 1 GetData request from reducer 2
+[2024-04-16 21:53:27] Mapper 1 started
+[2024-04-16 21:53:27] Mapper 1 finished
+[2024-04-16 21:53:27] Mapper 1 GetData request from reducer 0
+[2024-04-16 21:53:27] Mapper 1 GetData request from reducer 1
+[2024-04-16 21:53:27] Mapper 1 GetData request from reducer 2
+[2024-04-16 21:53:32] Mapper 1 started
+[2024-04-16 21:53:32] Mapper 1 finished
+[2024-04-16 21:53:32] Mapper 1 GetData request from reducer 0
+[2024-04-16 21:53:32] Mapper 1 GetData request from reducer 1
+[2024-04-16 21:53:32] Mapper 1 GetData request from reducer 2
+[2024-04-16 21:53:37] Mapper 1 started
+[2024-04-16 21:53:37] Mapper 1 finished
+[2024-04-16 21:53:37] Mapper 1 GetData request from reducer 0
+[2024-04-16 21:53:37] Mapper 1 GetData request from reducer 1
+[2024-04-16 21:53:37] Mapper 1 GetData request from reducer 2
+[2024-04-16 21:53:42] Mapper 1 started
+[2024-04-16 21:53:42] Mapper 1 finished
+[2024-04-16 21:53:42] Mapper 1 GetData request from reducer 0
+[2024-04-16 21:53:42] Mapper 1 GetData request from reducer 1
+[2024-04-16 21:53:42] Mapper 1 GetData request from reducer 2
