@@ -1,6 +1,3 @@
-Here's the markdown file for the README:
-
-```markdown
 # K-Means Clustering using MapReduce
 
 This project implements the K-Means clustering algorithm using a MapReduce framework from scratch. The implementation is designed to run on a single machine with multiple processes simulating a distributed environment.
@@ -92,4 +89,3 @@ The system can be tested with different numbers of mappers, reducers, centroids,
 ## Note
 
 This implementation is for educational purposes and simulates a distributed environment on a single machine. In a real-world scenario, the components would be deployed on separate machines in a cluster.
-```
