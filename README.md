@@ -23,7 +23,7 @@ These components communicate using gRPC, with each mapper and reducer running as
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 - gRPC
 
 ## Setup
@@ -35,17 +35,24 @@ These components communicate using gRPC, with each mapper and reducer running as
 
 2. Generate gRPC code:
    ```
-   python -m grpc_tools.protoc -I./protos --python_out=. --grpc_python_out=. ./protos/kmeans.proto
+   python -m grpc_tools.protoc -I./protos --python_out=. --grpc_python_out=. ./common.proto
    ```
 
 ## Usage
 
-1. Start the master process:
+1. Start the mapper process:
    ```
-   python master.py --mappers 3 --reducers 2 --centroids 5 --iterations 10
+   python mapper.py mapper_id total_mappers total_reducers
    ```
 
-2. The master will automatically spawn mapper and reducer processes as needed.
+2. Start the reducer process:
+   ```
+   python reducer.py reducer_id total_mappers
+   ```
+3. Start the master process:
+   ```
+   python master.py total_mappers total_reducers num_centroids num_iterations
+   ```
 
 ## Directory Structure
 
@@ -65,8 +72,6 @@ These components communicate using gRPC, with each mapper and reducer running as
 ├── master.py
 ├── mapper.py
 ├── reducer.py
-├── protos/
-│   └── kmeans.proto
 └── README.md
 ```
 
